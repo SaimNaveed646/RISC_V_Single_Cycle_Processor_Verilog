@@ -1,6 +1,9 @@
 # RISC_V_Single_Cycle_Processor_Verilog
 A RISC-V Single-Cycle Processor implemented using Verilog, featuring PC, Instruction Memory, Register File, ALU, Control Unit, and Data Memory to demonstrate instruction execution and processor architecture.
 
+![Uploading image.png…]()
+
+
 # Control Unit
 <img width="1048" height="526" alt="image" src="https://github.com/user-attachments/assets/f0aee38c-b29a-42d9-bb90-2c5cd5758086" />
 
